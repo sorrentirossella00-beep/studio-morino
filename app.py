@@ -10,7 +10,7 @@ def home():
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <title>Studio Odontotecnico Massimo Morino</title>
+    <title>Laboratorio Odontotecnico Massimo Morino</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -60,19 +60,19 @@ def home():
 </head>
 <body>
     <header>
-        <h1>Studio Odontotecnico Massimo Morino</h1>
+        <h1>laboratorio Odontotecnico Massimo Morino</h1>
     </header>
 
-    <p>Benvenuti nello studio odontotecnico di <strong>Massimo Morino</strong>, un professionista altamente qualificato, esperto e molto apprezzato nel suo settore. Grazie alla sua passione e competenza, ogni paziente riceve cure eccellenti e personalizzate.</p>
+    <p>Benvenuti nel Laboratorio odontotecnico di <strong>Massimo Morino</strong>, un professionista altamente qualificato, esperto e molto apprezzato nel suo settore. Grazie alla sua passione e competenza, ogni paziente riceve cure eccellenti e personalizzate.</p>
 
-    <p>Lo studio offre servizi all'avanguardia e attenzione massima al comfort e alla sicurezza dei pazienti. Massimo Morino è rinomato per la sua precisione, affidabilità e cordialità.</p>
+    <p>Il laboratorio offre servizi all'avanguardia e attenzione massima al comfort e alla sicurezza dei pazienti. Massimo Morino è rinomato per la sua precisione, affidabilità e cordialità.</p>
 
     <a class="btn" href="#">Scopri i nostri servizi</a>
     <a class="btn" href="#">Prenota una visita</a>
     <a class="btn" href="#">Contattaci</a>
 
     <footer>
-        &copy; 2026 Studio Odontotecnico Massimo Morino
+        &copy; 2026 Laboratorio Odontotecnico Massimo Morino
     </footer>
 </body>
 </html>
