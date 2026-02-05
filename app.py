@@ -60,7 +60,7 @@ def home():
 </head>
 <body>
     <header>
-        <h1>laboratorio Odontotecnico Massimo Morino</h1>
+        <h1>Laboratorio Odontotecnico Massimo Morino</h1>
     </header>
 
     <p>Benvenuti nel Laboratorio odontotecnico di <strong>Massimo Morino</strong>, un professionista altamente qualificato, esperto e molto apprezzato nel suo settore. Grazie alla sua passione e competenza, ogni paziente riceve cure eccellenti e personalizzate.</p>
